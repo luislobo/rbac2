@@ -7,9 +7,6 @@
   "parserOptions": {
     "ecmaVersion": 8 // support for async/await
   },
-  "plugins": [
-    "chai-friendly"
-  ],
   "rules": {
     // Possible errors
     "no-await-in-loop": [
